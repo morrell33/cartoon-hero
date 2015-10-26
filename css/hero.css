@@ -1,0 +1,24 @@
+html, body{font-family: ariel, sans-serif;
+			margin: 0;
+
+		}
+header{
+	background-color: #3366FF;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300;
+	border: 10px solid #FFFFC8;
+	}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>The Mighty Heroes</h1>
+</header>*/
